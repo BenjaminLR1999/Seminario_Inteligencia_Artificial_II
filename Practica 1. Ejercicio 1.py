@@ -3,7 +3,6 @@
 #DATOS ENTRADA (PRUEBA)
 #X1 = 1.0145
 #X2 = 1.045
-#RESULTADO = -1
 
 # LIBRERIAS
 import random
